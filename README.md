@@ -13,7 +13,6 @@
 
 * BOJ: [elrion21](http://icpc.me/elrion21)
   * solvedac: [elrion21](https://solved.ac/profile/elrion21)
-i)
 
 ## 📜 Tech Blog
 
