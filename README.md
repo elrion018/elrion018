@@ -5,7 +5,7 @@
 ## 👋 Profile
 
 * Jaemin Cheon
-* Hankuk University of Foreign Studies Russian Major, Business Administration Minor 4th semester
+* Hankuk University of Foreign Studies Russian Major, Business Administration Minor
 * Web/App front-end developer
 * Competitive Programmer
 
