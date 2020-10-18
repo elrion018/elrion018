@@ -18,7 +18,7 @@
 
 * [Hermitage](https://elrion018.tistory.com/)
 
-## ⚡ Project
+## ⚡ Project([Detail](https://github.com/elrion018/portfolio))
 
 * [Algorithm Study](https://github.com/elrion018/CS_study) : Algorithm learning code using Python
 * [Tetris](https://github.com/elrion018/Tetris) : This is Vanilla JavaScript Tetris
