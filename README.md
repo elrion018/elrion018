@@ -23,7 +23,7 @@
 * [Algorithm Study](https://github.com/elrion018/CS_study) : Algorithm learning code using Python
 * [Tetris](https://github.com/elrion018/Tetris) : This is Vanilla JavaScript Tetris
 * [Tripriend-2.0](https://play.google.com/store/apps/details?id=application.example.com.tripriend_client&hl=ko) : Recommendation service 'Tripriend-2.0' for foreign friends based on interests and tastes using artificial intelligence
-* [Whagae Market](https://github.com/justiceHui/Unknown-To-Wellknown) : Local based online marketplace platform for small business owners and traditional market traders (Using React-Native)
+* [Whagae Market](https://github.com/Decorona/whagae-market-frontend_) : Local based online marketplace platform for small business owners and traditional market traders (Using React-Native)
 * [stickyboard-highcharts](https://github.com/soaple/stickyboard-highcharts) : A library that makes the HighCharts library available on Stickyboard
 
 ## 🏷️ Cards
