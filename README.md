@@ -25,6 +25,7 @@
 * [Tripriend-2.0](https://play.google.com/store/apps/details?id=application.example.com.tripriend_client&hl=ko) : Recommendation service 'Tripriend-2.0' for foreign friends based on interests and tastes using artificial intelligence
 * [Whagae Market](https://github.com/Decorona/whagae-market-frontend_) : Local based online marketplace platform for small business owners and traditional market traders (Using React-Native)
 * [stickyboard-highcharts](https://github.com/soaple/stickyboard-highcharts) : A library that makes the HighCharts library available on Stickyboard
+* [Hufs 간편 OCR 서비스](https://hufsocr.netlify.app/)
 
 ## 🏷️ Cards
 
