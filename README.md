@@ -13,6 +13,10 @@
 
 * BOJ: [elrion21](http://icpc.me/elrion21)
   * solvedac: [elrion21](https://solved.ac/profile/elrion21)
+  
+## 📋 LinkedIn
+
+* [Jaemin Cheon](https://www.linkedin.com/in/jaemin-cheon-5a6a65169/)
 
 ## 📜 Tech Blog
 
