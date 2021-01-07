@@ -24,13 +24,13 @@
 
 ## ⚡ Project([Detail](https://github.com/elrion018/portfolio))
 
-* [Algorithm Study](https://github.com/elrion018/CS_study) : Algorithm learning code using Python
-* [Tetris](https://github.com/elrion018/Tetris) : This is Vanilla JavaScript Tetris
-* [Tripriend-2.0](https://play.google.com/store/apps/details?id=application.example.com.tripriend_client&hl=ko) : Recommendation service 'Tripriend-2.0' for foreign friends based on interests and tastes using artificial intelligence
-* [Whagae Market](https://github.com/Decorona/whagae-market-frontend_) : Local based online marketplace platform for small business owners and traditional market traders (Using React-Native)
+* [Algorithm Study](https://github.com/elrion018/CS_study)(알고리즘 문제해결 학습) : Algorithm learning code using Python
+* [Tetris](https://github.com/elrion018/Tetris)(테트리스) : This is Vanilla JavaScript Tetris
+* [Tripriend-2.0](https://play.google.com/store/apps/details?id=application.example.com.tripriend_client&hl=ko)(트리프렌드) : Recommendation service 'Tripriend-2.0' for foreign friends based on interests and tastes using artificial intelligence
+* [Whagae Market](https://github.com/Decorona/whagae-market-frontend_)(화개장터) : Local based online marketplace platform for small business owners and traditional market traders (Using React-Native)
 * [stickyboard-highcharts](https://github.com/soaple/stickyboard-highcharts) : A library that makes the HighCharts library available on Stickyboard
-* [Hufs 간편 OCR 서비스](https://hufsocr.netlify.app/) : A service designed to make it easier for students to study foreign language materials used in class
-* WoowaTechCourse precourse assignment(우아한테크코스 프리코스 과제) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission
+* [Hufs easy OCR service](https://hufsocr.netlify.app/)(Hufs 간편 OCR 서비스) : A service designed to make it easier for students to study foreign language materials used in class
+* [WoowaCourse](https://woowacourse.github.io/) precourse assignment(우아한테크코스 프리코스 과제) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission
 ## 🏷️ Cards
 
 [![elrion21's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elrion21)](https://solved.ac/profile/elrion21)
