@@ -30,7 +30,7 @@
 * [Whagae Market](https://github.com/Decorona/whagae-market-frontend_)(화개장터) : Local based online marketplace platform for small business owners and traditional market traders (Using React-Native)
 * [stickyboard-highcharts](https://github.com/soaple/stickyboard-highcharts) : A library that makes the HighCharts library available on Stickyboard
 * [Hufs easy OCR service](https://hufsocr.netlify.app/)(Hufs 간편 OCR 서비스) : A service designed to make it easier for students to study foreign language materials used in class
-* [WoowaCourse](https://woowacourse.github.io/) precourse assignment(우아한테크코스 프리코스 과제) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission
+* [WoowaCourse](https://woowacourse.github.io/) precourse assignment(우아한테크코스 프리코스 과제) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission 
 ## 🏷️ Cards
 
 [![elrion21's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elrion21)](https://solved.ac/profile/elrion21)
