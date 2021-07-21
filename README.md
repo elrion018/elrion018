@@ -21,6 +21,7 @@
 ## 📜 Tech Blog
 
 * [Hermitage](https://elrion018.tistory.com/)
+* [ZUM-TECH : INVESTING.COM clone coding (feat. Vue JS SSR, CANVAS API)](https://zuminternet.github.io/zum-front-investing-clone/)
 
 ## ⚡ Project([Detail](https://github.com/elrion018/portfolio))
 
