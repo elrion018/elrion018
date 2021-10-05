@@ -20,8 +20,9 @@
 
 ## 📜 Tech Blog
 * [ZUM-TECH : INVESTING.COM clone coding (feat. Vue JS SSR, CANVAS API)](https://zuminternet.github.io/zum-front-investing-clone/)
+* [Blog Driven Development](https://velog.io/@elrion018)
 
-## ⚡ Project([Detail](https://github.com/elrion018/portfolio))
+## ⚡ Project - 업데이트 예정([Detail](https://github.com/elrion018/portfolio))
 
 * [Algorithm Study](https://github.com/elrion018/CS_study)(알고리즘 문제해결 학습) : Algorithm learning code using Python
 * [Tetris](https://github.com/elrion018/Tetris)(테트리스) : This is Vanilla JavaScript Tetris
