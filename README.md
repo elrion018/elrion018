@@ -17,8 +17,6 @@
 * [ZUM-TECH : INVESTING.COM clone coding (feat. Vue JS SSR, CANVAS API)](https://zuminternet.github.io/zum-front-investing-clone/)
 * [Blog Driven Development](https://velog.io/@elrion018)
 
-## ⚡ Project - 업데이트 예정([Detail](https://github.com/elrion018/portfolio))
-
 ## 🏷️ Cards
 
 [![elrion018's github stats](https://github-readme-stats.vercel.app/api?username=elrion018&show_icons=true&hide_border=true)](https://github.com/elrion018) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrion018&layout=compact)](https://github.com/elrion018)
