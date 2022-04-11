@@ -6,13 +6,8 @@
 
 * Jaemin Cheon
 * Hankuk University of Foreign Studies Russian Major, Business Administration Minor
-* Web/App front-end developer
-* Competitive Programmer
+* Web front-end developer
 
-## 💻 Online Judge
-
-* BOJ: [elrion21](http://icpc.me/elrion21)
-  * solvedac: [elrion21](https://solved.ac/profile/elrion21)
   
 ## 📋 LinkedIn
 
@@ -24,13 +19,7 @@
 
 ## ⚡ Project - 업데이트 예정([Detail](https://github.com/elrion018/portfolio))
 
-* [Algorithm Study](https://github.com/elrion018/CS_study)(알고리즘 문제해결 학습) : Algorithm learning code using Python
-* [Tetris](https://github.com/elrion018/Tetris)(테트리스) : This is Vanilla JavaScript Tetris
-* [Tripriend-2.0](https://play.google.com/store/apps/details?id=application.example.com.tripriend_client&hl=ko)(트리프렌드) : Recommendation service 'Tripriend-2.0' for foreign friends based on interests and tastes using artificial intelligence
-* [WoowaCourse](https://woowacourse.github.io/) precourse assignment(우아한테크코스 프리코스 과제) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission 
 ## 🏷️ Cards
-
-[![elrion21's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elrion21)](https://solved.ac/profile/elrion21)
 
 [![elrion018's github stats](https://github-readme-stats.vercel.app/api?username=elrion018&show_icons=true&hide_border=true)](https://github.com/elrion018) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrion018&layout=compact)](https://github.com/elrion018)
 
@@ -40,7 +29,6 @@
 
 * Github Repo Issue
 * Email(elrion018@gmail.com)
-* Instagram DM(jam_stagram)
 
 <!--
 **elrion018/elrion018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
