@@ -6,7 +6,7 @@
 
 * Jaemin Cheon
 * Hankuk University of Foreign Studies Russian Major, Business Administration Minor
-* Web front-end developer
+* I am working as a front-end developer at CJ Olive Young.
 
   
 ## 📋 LinkedIn
